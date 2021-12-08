@@ -33,7 +33,7 @@
 
 @media (max-width: 768px) {
     .flex-container {
-        width: 35%;
+        width: 100%;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
@@ -72,7 +72,7 @@
 
     .flex-container {
         font-size: 140%;
-        width: 60%;
+        width: 100%;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
@@ -102,7 +102,7 @@
 @media (min-width: 992px) {
     .flex-container {
         font-size: 150%;
-        width: 80%;
+        width: 100%;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
